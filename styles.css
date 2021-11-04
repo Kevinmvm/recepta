@@ -1,0 +1,41 @@
+body {
+    width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+  }
+
+#principalImage{
+    z-index: -99;
+    max-width: 100%;
+     -1000px;
+}
+
+#centerText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textIntrodution{
+
+    position: fixed;
+}
+
+#hookImage{
+    position: relative;
+    display: block;
+    margin:auto;
+    width: 400px;
+}
+
+
+div.container {
+
+    }
+    img {
+    width: 100%;
+    height: auto;
+}
+
