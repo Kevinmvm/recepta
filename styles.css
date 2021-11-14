@@ -58,7 +58,7 @@ body {
 
 .titleIng{
     font-size: 32px;
-    font-weight: 335;
+    font-weight: 345;
 }
 
 .listIng{
@@ -81,7 +81,7 @@ body {
 
 .titleDir{
     font-size: 32px;
-    font-weight: 335;
+    font-weight: 345;
 }
 
 .listDir li::marker {
