@@ -57,7 +57,7 @@ body {
 }
 
 .titleIng{
-
+    font-size: 32px;
     font-weight: 335;
 }
 
@@ -80,6 +80,7 @@ body {
 }
 
 .titleDir{
+    font-size: 32px;
     font-weight: 335;
 }
 
